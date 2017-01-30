@@ -1,0 +1,11 @@
+servidor bd: servidor
+basede datos:bdterrum
+
+usuario db: jdiaz
+constraseña db; mexico
+usuario erp y pyme :jdiaz
+contraseña mexico
+
+
+sa
+BdTerrum16
